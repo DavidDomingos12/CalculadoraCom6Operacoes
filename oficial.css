@@ -1,0 +1,48 @@
+@media only screen and (max-device-width: 1800px) {
+     .menu { width:100%; } 
+    }
+@media only screen and (max-device-width: 1800px) {
+      .menu { width:100%; } 
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    outline: none;
+    font-weight: 500;
+    font-size: 22px;
+}
+#display{
+    margin-top: 110px;
+    color: white;
+}
+
+#Name{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    color: white;
+}
+
+body {
+    text-align: center;  
+    justify-content: center;
+    margin-top: 20px;
+    height: 40px;
+    background-color: rgb(121, 18, 218);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+button{
+    width: 80px;
+    margin: 8px;
+    border: none;
+    border-radius: 15%;
+    height: 40px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+button:active{
+    transform: scale(0.9);
+    filter: brightness(80%);
+}
