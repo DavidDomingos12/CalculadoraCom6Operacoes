@@ -1,1 +1,1 @@
-# Calculadora-com-6-opera-es
+# Calculadora-com-6-operações
